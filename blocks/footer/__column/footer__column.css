@@ -1,0 +1,6 @@
+.footer__column {
+    min-height: 250px;  /* .footer__column->min-height = .footer->min-height чтобы привязать .footer__author->bottom: 0;*/
+    position: absolute;
+    top: 0;
+  }
+  
